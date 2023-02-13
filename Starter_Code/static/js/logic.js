@@ -1,4 +1,4 @@
-link = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.geojson'
+link = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson'
 
 var myMap = L.map("map", {
     center: [0, 0],
